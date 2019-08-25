@@ -1,0 +1,1 @@
+# samsungS10Ad
