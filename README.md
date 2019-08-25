@@ -3,6 +3,8 @@
 Samsung Galaxy S10 | S10+ Project
 Build with: HTML/ CSS/ JS/ jQuery/ GSAP/ Photoshop
 
+*Optimized for Desktops only.
+
 This was side project to learn some basic animations using GSAP/ GreenSock JS animations for the first time.
 
 What I learned:
