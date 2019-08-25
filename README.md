@@ -3,8 +3,11 @@
 Samsung Galaxy S10 | S10+ Project
 Build with: HTML/ CSS/ JS/ jQuery/ GSAP/ Photoshop
 
+Notes:
 *Optimized for Desktops only.
+*Animation is set for an infinite repeat with a repeatDelay of 20 seconds.
 
+Description:
 This was side project to learn some basic animations using GSAP/ GreenSock JS animations for the first time.
 
 What I learned:
